@@ -16,3 +16,5 @@
 [![](https://visitcount.itsvg.in/api?id=danilo1992-sys&icon=0&color=8)](https://visitcount.itsvg.in)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+
+[![](https://visitcount.itsvg.in/api?id=danilo1992-sys&label=Developer&color=12&icon=2&pretty=true)](https://visitcount.itsvg.in)
